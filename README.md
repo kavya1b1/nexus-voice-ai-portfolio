@@ -31,6 +31,22 @@ The project is designed around **local-first AI**: the main retrieval, language-
 
 NEXUS should decline to invent details that are absent from the knowledge base. Its answers depend on the quality and freshness of the underlying knowledge files and on the configured local model.
 
+
+## Screenshots
+
+### Portfolio Home
+![Portfolio Home](assets/screenshots/portfolio-home.png)
+
+### NEXUS Voice AI Assistant
+![NEXUS Assistant](assets/screenshots/nexus-assistant.png)
+
+### Projects Section
+![Projects Section](assets/screenshots/projects-section.png)
+
+### Voice Interaction
+![Voice Interaction](assets/screenshots/voice-interaction.png)
+
+
 ## 🚀 Features
 
 | Capability | Implementation |

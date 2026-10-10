@@ -41,10 +41,10 @@ NEXUS should decline to invent details that are absent from the knowledge base. 
 ![NEXUS Assistant](kavya2/assets/screenshots/voice_ai.png)
 
 ### Projects Section
-![Projects Section](assets/screenshots/projects-section.png)
+![Projects Section](kavya2/assets/screenshots/projects.png)
 
-### Voice Interaction
-![Voice Interaction](assets/screenshots/voice-interaction.png)
+### Contact info
+![Voice Interaction](kavya2/assets/screenshots/contacts.png)
 
 
 ## 🚀 Features

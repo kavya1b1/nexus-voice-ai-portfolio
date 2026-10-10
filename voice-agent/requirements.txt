@@ -1,0 +1,20 @@
+# core
+fastapi>=0.110
+uvicorn[standard]>=0.29
+httpx>=0.27
+pydantic>=2.6
+python-multipart>=0.0.9
+pyyaml>=6.0
+numpy>=1.26
+# retrieval
+chromadb>=0.5
+rank-bm25>=0.2.2
+sentence-transformers>=3.0      # dense embeddings (+ optional cross-encoder re-ranking)
+pypdf>=4.0                      # lets you drop your resume PDF into knowledge/
+# agent
+langgraph>=0.2
+# voice (local speech-to-text)
+faster-whisper>=1.0
+av>=14.0                        # audio decoding (app/stt.py decodes with PyAV directly, so any version works)
+# dev
+pytest>=8.0

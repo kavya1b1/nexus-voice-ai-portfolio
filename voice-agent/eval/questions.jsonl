@@ -1,0 +1,100 @@
+{"q": "Who is Kavya?", "expect": "About Kavya", "oos": false, "case_id": "base-001"}
+{"q": "Give me a quick introduction", "expect": "About Kavya", "oos": false, "case_id": "base-002"}
+{"q": "What is her CGPA?", "expect": "About Kavya", "oos": false, "case_id": "base-003"}
+{"q": "Which college does she study at?", "expect": "About Kavya", "oos": false, "case_id": "base-004"}
+{"q": "When does she graduate?", "expect": "About Kavya", "oos": false, "case_id": "base-005"}
+{"q": "What hackathons has she done?", "expect": "About Kavya", "oos": false, "case_id": "base-006"}
+{"q": "Did she win any competitions?", "expect": "About Kavya", "oos": false, "case_id": "base-007"}
+{"q": "Does she have leadership experience?", "expect": "About Kavya", "oos": false, "case_id": "base-008"}
+{"q": "What is she the lead of at GDGC?", "expect": "About Kavya", "oos": false, "case_id": "base-009"}
+{"q": "Why should we hire her?", "expect": "About Kavya", "oos": false, "case_id": "base-010"}
+{"q": "What are her technical skills?", "expect": "Skills and tech stack", "oos": false, "case_id": "base-011"}
+{"q": "Which programming languages does she know?", "expect": "Skills and tech stack", "oos": false, "case_id": "base-012"}
+{"q": "Does she know PyTorch?", "expect": "Skills and tech stack", "oos": false, "case_id": "base-013"}
+{"q": "Which databases has she used?", "expect": "Skills and tech stack", "oos": false, "case_id": "base-014"}
+{"q": "Does she work with FastAPI?", "expect": "Skills and tech stack", "oos": false, "case_id": "base-015"}
+{"q": "Has she worked with RAG or LLM fine-tuning?", "expect": "Skills and tech stack", "oos": false, "case_id": "base-016"}
+{"q": "What certifications does she hold?", "expect": "Certifications", "oos": false, "case_id": "base-017"}
+{"q": "Does she have any cloud certificate?", "expect": "Certifications", "oos": false, "case_id": "base-018"}
+{"q": "Is she IBM certified?", "expect": "Certifications", "oos": false, "case_id": "base-019"}
+{"q": "Tell me about the proposal evaluation project", "expect": "AI Proposal Evaluation System", "oos": false, "case_id": "base-020"}
+{"q": "How accurate is her proposal evaluator?", "expect": "AI Proposal Evaluation System", "oos": false, "case_id": "base-021"}
+{"q": "Which ML techniques are used in the proposal system?", "expect": "AI Proposal Evaluation System", "oos": false, "case_id": "base-022"}
+{"q": "How many PDFs does the proposal system analyse?", "expect": "AI Proposal Evaluation System", "oos": false, "case_id": "base-023"}
+{"q": "Tell me about the cold email project", "expect": "Autonomous ColdMail AI", "oos": false, "case_id": "base-024"}
+{"q": "What is the architecture of ColdMail AI?", "expect": "Autonomous ColdMail AI", "oos": false, "case_id": "base-025"}
+{"q": "Which LLM provider does ColdMail use?", "expect": "Autonomous ColdMail AI", "oos": false, "case_id": "base-026"}
+{"q": "What agent framework did she use for outreach emails?", "expect": "Autonomous ColdMail AI", "oos": false, "case_id": "base-027"}
+{"q": "What does the n8n extension do?", "expect": "n8n Workflow Generator Chrome Extension", "oos": false, "case_id": "base-028"}
+{"q": "Which model generates the n8n workflows?", "expect": "n8n Workflow Generator Chrome Extension", "oos": false, "case_id": "base-029"}
+{"q": "Tell me about her Chrome extension", "expect": "n8n Workflow Generator Chrome Extension", "oos": false, "case_id": "base-030"}
+{"q": "What is SafeSphere?", "expect": "SafeSphere.AI moderation engine", "oos": false, "case_id": "base-031"}
+{"q": "How fast is the moderation engine?", "expect": "SafeSphere.AI moderation engine", "oos": false, "case_id": "base-032"}
+{"q": "How many moderation logs does it store?", "expect": "SafeSphere.AI moderation engine", "oos": false, "case_id": "base-033"}
+{"q": "Which APIs detect unsafe images?", "expect": "SafeSphere.AI moderation engine", "oos": false, "case_id": "base-034"}
+{"q": "What is her email address?", "expect": "Contact, availability and resume", "oos": false, "case_id": "base-035"}
+{"q": "Give me her email ID", "expect": "Contact, availability and resume", "oos": false, "case_id": "base-036"}
+{"q": "How can I contact her?", "expect": "Contact, availability and resume", "oos": false, "case_id": "base-037"}
+{"q": "Is she open to internships?", "expect": "Contact, availability and resume", "oos": false, "case_id": "base-038"}
+{"q": "Where can I download her resume?", "expect": "Contact, availability and resume", "oos": false, "case_id": "base-039"}
+{"q": "What is her LinkedIn?", "expect": "Contact, availability and resume", "oos": false, "case_id": "base-040"}
+{"q": "How does this voice assistant work?", "expect": "About this voice assistant", "oos": false, "case_id": "base-041"}
+{"q": "What tech is this AI agent built with?", "expect": "About this voice assistant", "oos": false, "case_id": "base-042"}
+{"q": "Does this assistant run locally?", "expect": "About this voice assistant", "oos": false, "case_id": "base-043"}
+{"q": "What is the weather today?", "expect": null, "oos": true, "case_id": "base-044"}
+{"q": "Who is the prime minister of India?", "expect": null, "oos": true, "case_id": "base-045"}
+{"q": "What is her favourite food?", "expect": null, "oos": true, "case_id": "base-046"}
+{"q": "Tell me a joke", "expect": null, "oos": true, "case_id": "base-047"}
+{"q": "How tall is she?", "expect": null, "oos": true, "case_id": "base-048"}
+{"q": "What is the capital of France?", "expect": null, "oos": true, "case_id": "base-049"}
+{"q": "Write me a poem about the sea", "expect": null, "oos": true, "case_id": "base-050"}
+{"q": "What is the price of bitcoin?", "expect": null, "oos": true, "case_id": "base-051"}
+{"q": "Who won the cricket world cup?", "expect": null, "oos": true, "case_id": "base-052"}
+{"q": "What is her salary expectation?", "expect": null, "oos": true, "case_id": "base-053"}
+{"q": "Please explain: Who is Kavya?", "expect": "About Kavya", "oos": false, "case_id": "aug-001", "derived_from": "Who is Kavya?"}
+{"q": "Please explain: Give me a quick introduction", "expect": "About Kavya", "oos": false, "case_id": "aug-002", "derived_from": "Give me a quick introduction"}
+{"q": "Please explain: What is her CGPA?", "expect": "About Kavya", "oos": false, "case_id": "aug-003", "derived_from": "What is her CGPA?"}
+{"q": "Please explain: Which college does she study at?", "expect": "About Kavya", "oos": false, "case_id": "aug-004", "derived_from": "Which college does she study at?"}
+{"q": "Please explain: When does she graduate?", "expect": "About Kavya", "oos": false, "case_id": "aug-005", "derived_from": "When does she graduate?"}
+{"q": "Please explain: What hackathons has she done?", "expect": "About Kavya", "oos": false, "case_id": "aug-006", "derived_from": "What hackathons has she done?"}
+{"q": "Please explain: Did she win any competitions?", "expect": "About Kavya", "oos": false, "case_id": "aug-007", "derived_from": "Did she win any competitions?"}
+{"q": "Please explain: Does she have leadership experience?", "expect": "About Kavya", "oos": false, "case_id": "aug-008", "derived_from": "Does she have leadership experience?"}
+{"q": "Please explain: What is she the lead of at GDGC?", "expect": "About Kavya", "oos": false, "case_id": "aug-009", "derived_from": "What is she the lead of at GDGC?"}
+{"q": "Please explain: Why should we hire her?", "expect": "About Kavya", "oos": false, "case_id": "aug-010", "derived_from": "Why should we hire her?"}
+{"q": "Please explain: What are her technical skills?", "expect": "Skills and tech stack", "oos": false, "case_id": "aug-011", "derived_from": "What are her technical skills?"}
+{"q": "Please explain: Which programming languages does she know?", "expect": "Skills and tech stack", "oos": false, "case_id": "aug-012", "derived_from": "Which programming languages does she know?"}
+{"q": "Please explain: Does she know PyTorch?", "expect": "Skills and tech stack", "oos": false, "case_id": "aug-013", "derived_from": "Does she know PyTorch?"}
+{"q": "Please explain: Which databases has she used?", "expect": "Skills and tech stack", "oos": false, "case_id": "aug-014", "derived_from": "Which databases has she used?"}
+{"q": "Please explain: Does she work with FastAPI?", "expect": "Skills and tech stack", "oos": false, "case_id": "aug-015", "derived_from": "Does she work with FastAPI?"}
+{"q": "Please explain: Has she worked with RAG or LLM fine-tuning?", "expect": "Skills and tech stack", "oos": false, "case_id": "aug-016", "derived_from": "Has she worked with RAG or LLM fine-tuning?"}
+{"q": "Please explain: What certifications does she hold?", "expect": "Certifications", "oos": false, "case_id": "aug-017", "derived_from": "What certifications does she hold?"}
+{"q": "Please explain: Does she have any cloud certificate?", "expect": "Certifications", "oos": false, "case_id": "aug-018", "derived_from": "Does she have any cloud certificate?"}
+{"q": "Please explain: Is she IBM certified?", "expect": "Certifications", "oos": false, "case_id": "aug-019", "derived_from": "Is she IBM certified?"}
+{"q": "Please explain: Tell me about the proposal evaluation project", "expect": "AI Proposal Evaluation System", "oos": false, "case_id": "aug-020", "derived_from": "Tell me about the proposal evaluation project"}
+{"q": "Please explain: How accurate is her proposal evaluator?", "expect": "AI Proposal Evaluation System", "oos": false, "case_id": "aug-021", "derived_from": "How accurate is her proposal evaluator?"}
+{"q": "Please explain: Which ML techniques are used in the proposal system?", "expect": "AI Proposal Evaluation System", "oos": false, "case_id": "aug-022", "derived_from": "Which ML techniques are used in the proposal system?"}
+{"q": "Please explain: How many PDFs does the proposal system analyse?", "expect": "AI Proposal Evaluation System", "oos": false, "case_id": "aug-023", "derived_from": "How many PDFs does the proposal system analyse?"}
+{"q": "Please explain: Tell me about the cold email project", "expect": "Autonomous ColdMail AI", "oos": false, "case_id": "aug-024", "derived_from": "Tell me about the cold email project"}
+{"q": "Please explain: What is the architecture of ColdMail AI?", "expect": "Autonomous ColdMail AI", "oos": false, "case_id": "aug-025", "derived_from": "What is the architecture of ColdMail AI?"}
+{"q": "Please explain: Which LLM provider does ColdMail use?", "expect": "Autonomous ColdMail AI", "oos": false, "case_id": "aug-026", "derived_from": "Which LLM provider does ColdMail use?"}
+{"q": "Please explain: What agent framework did she use for outreach emails?", "expect": "Autonomous ColdMail AI", "oos": false, "case_id": "aug-027", "derived_from": "What agent framework did she use for outreach emails?"}
+{"q": "Please explain: What does the n8n extension do?", "expect": "n8n Workflow Generator Chrome Extension", "oos": false, "case_id": "aug-028", "derived_from": "What does the n8n extension do?"}
+{"q": "Please explain: Which model generates the n8n workflows?", "expect": "n8n Workflow Generator Chrome Extension", "oos": false, "case_id": "aug-029", "derived_from": "Which model generates the n8n workflows?"}
+{"q": "Please explain: Tell me about her Chrome extension", "expect": "n8n Workflow Generator Chrome Extension", "oos": false, "case_id": "aug-030", "derived_from": "Tell me about her Chrome extension"}
+{"q": "Please explain: What is SafeSphere?", "expect": "SafeSphere.AI moderation engine", "oos": false, "case_id": "aug-031", "derived_from": "What is SafeSphere?"}
+{"q": "Please explain: How fast is the moderation engine?", "expect": "SafeSphere.AI moderation engine", "oos": false, "case_id": "aug-032", "derived_from": "How fast is the moderation engine?"}
+{"q": "Please explain: How many moderation logs does it store?", "expect": "SafeSphere.AI moderation engine", "oos": false, "case_id": "aug-033", "derived_from": "How many moderation logs does it store?"}
+{"q": "Please explain: Which APIs detect unsafe images?", "expect": "SafeSphere.AI moderation engine", "oos": false, "case_id": "aug-034", "derived_from": "Which APIs detect unsafe images?"}
+{"q": "Please explain: What is her email address?", "expect": "Contact, availability and resume", "oos": false, "case_id": "aug-035", "derived_from": "What is her email address?"}
+{"q": "Please explain: Give me her email ID", "expect": "Contact, availability and resume", "oos": false, "case_id": "aug-036", "derived_from": "Give me her email ID"}
+{"q": "Please explain: How can I contact her?", "expect": "Contact, availability and resume", "oos": false, "case_id": "aug-037", "derived_from": "How can I contact her?"}
+{"q": "Please explain: Is she open to internships?", "expect": "Contact, availability and resume", "oos": false, "case_id": "aug-038", "derived_from": "Is she open to internships?"}
+{"q": "Please explain: Where can I download her resume?", "expect": "Contact, availability and resume", "oos": false, "case_id": "aug-039", "derived_from": "Where can I download her resume?"}
+{"q": "Please explain: What is her LinkedIn?", "expect": "Contact, availability and resume", "oos": false, "case_id": "aug-040", "derived_from": "What is her LinkedIn?"}
+{"q": "Please explain: How does this voice assistant work?", "expect": "About this voice assistant", "oos": false, "case_id": "aug-041", "derived_from": "How does this voice assistant work?"}
+{"q": "Please explain: What tech is this AI agent built with?", "expect": "About this voice assistant", "oos": false, "case_id": "aug-042", "derived_from": "What tech is this AI agent built with?"}
+{"q": "Please explain: Does this assistant run locally?", "expect": "About this voice assistant", "oos": false, "case_id": "aug-043", "derived_from": "Does this assistant run locally?"}
+{"q": "what is Kavya's favourite colour according to her portfolio", "expect": "abstain", "oos": true}
+{"q": "explain photosynthesis", "expect": "abstain", "oos": true}
+{"q": "what is the time right now", "expect": "abstain", "oos": true}
+{"q": "what is his favourite color", "expect": "abstain", "oos": true}

@@ -1,0 +1,20 @@
+services:
+  nexus-api:
+    build: ./voice-agent
+    working_dir: /app
+    ports:
+      - "8000:8000"
+    environment:
+      LLM_BASE_URL: ${LLM_BASE_URL:-http://host.docker.internal:11434}
+      LLM_MODEL: ${LLM_MODEL:-llama3:latest}
+      EMBED_MODEL: ${EMBED_MODEL:-sentence-transformers/all-MiniLM-L6-v2}
+      WHISPER_MODEL: ${WHISPER_MODEL:-base.en}
+      DATA_DIR: /app/data
+      KNOWLEDGE_DIR: /app/knowledge
+      ALLOWED_ORIGINS: ${ALLOWED_ORIGINS:-*}
+      LLM_TIMEOUT_SECONDS: ${LLM_TIMEOUT_SECONDS:-90}
+    volumes:
+      - ./voice-agent/data:/app/data
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    restart: unless-stopped

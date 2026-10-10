@@ -1,0 +1,50 @@
+/* ══ Design Tokens — Dark Moody + Neon Lime ══ */
+:root {
+  /* Backgrounds */
+  --clr-bg:        #080808;
+  --clr-bg-2:      #0f0f0f;
+  --clr-bg-3:      #141414;
+  --clr-surface:   #1a1a1a;
+  --clr-border:    rgba(255,255,255,0.07);
+
+  /* Accent */
+  --clr-accent:        #e8ff00;
+  --clr-accent-2:      #00ffe0;
+  --clr-accent-muted:  rgba(232,255,0,0.08);
+
+  /* Text */
+  --clr-text:       #f0f0f0;
+  --clr-text-muted: #888;
+  --clr-text-faint: #444;
+
+  /* Fonts */
+  --font-display: 'Syne', sans-serif;
+  --font-body:    'Bricolage Grotesque', sans-serif;
+  --font-mono:    'DM Mono', monospace;
+
+  /* Type scale */
+  --fs-xs:  0.72rem;
+  --fs-sm:  0.875rem;
+  --fs-base:1rem;
+  --fs-lg:  1.125rem;
+  --fs-xl:  1.375rem;
+  --fs-2xl: 1.75rem;
+  --fs-3xl: 2.5rem;
+  --fs-4xl: 3.5rem;
+  --fs-5xl: 5rem;
+  --fs-6xl: 7rem;
+
+  /* Spacing */
+  --sp-2:0.5rem; --sp-3:0.75rem; --sp-4:1rem;   --sp-6:1.5rem;
+  --sp-8:2rem;   --sp-10:2.5rem; --sp-12:3rem;  --sp-16:4rem; --sp-24:6rem; --sp-32:8rem;
+
+  /* Radii */
+  --radius-sm:4px; --radius-md:12px; --radius-lg:20px; --radius-xl:32px; --radius-full:9999px;
+
+  /* Shadows */
+  --shadow-glow: 0 0 40px rgba(232,255,0,0.15);
+
+  /* Easing */
+  --ease-out:   cubic-bezier(0.16,1,0.3,1);
+  --ease-in-out:cubic-bezier(0.45,0,0.55,1);
+}

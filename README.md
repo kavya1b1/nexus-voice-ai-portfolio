@@ -35,7 +35,7 @@ NEXUS should decline to invent details that are absent from the knowledge base. 
 ## Screenshots
 
 ### Portfolio Home
-![Portfolio Home](assets/screenshots/portfolio-home.png)
+![Portfolio Home](assets/screenshots/homepage.png)
 
 ### NEXUS Voice AI Assistant
 ![NEXUS Assistant](assets/screenshots/nexus-assistant.png)

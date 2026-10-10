@@ -27,6 +27,7 @@ The project is designed around **local-first AI**: the main retrieval, language-
 - “What projects demonstrate his GenAI skills?”
 - “How can I contact Kavya?”
 - “What information do you have about this assistant?”
+- "And many more portfolio related questions"
 
 NEXUS should decline to invent details that are absent from the knowledge base. Its answers depend on the quality and freshness of the underlying knowledge files and on the configured local model.
 
